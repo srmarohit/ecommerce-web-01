@@ -983,6 +983,12 @@ footer.copywright div a{
 }
 
 @media (max-width:768px){
+    
+     header.hero .hero-img{
+        right:-150px;
+        top:150px;
+    }
+    
     section.about-meal .about-meal-wrap{
         flex-direction:column;
     }
@@ -1037,7 +1043,7 @@ footer.copywright div a{
         padding:1.5rem;
     }
 
-    header.hero .hero-image{
+    header.hero .hero-img{
         right:-235px;
         top:150px;
     }
