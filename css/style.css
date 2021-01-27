@@ -985,8 +985,7 @@ footer.copywright div a{
 @media (max-width:768px){
     
      header.hero .hero-img{
-        right:-150px;
-        top:150px;
+       display:none !important ;
     }
     
     section.about-meal .about-meal-wrap{
@@ -1044,8 +1043,7 @@ footer.copywright div a{
     }
 
     header.hero .hero-img{
-        right:-235px;
-        top:150px;
+              display:none !important ;
     }
 
     section.big-deal .container{
